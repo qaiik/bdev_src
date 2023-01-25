@@ -1,0 +1,17 @@
+body {
+  user-select: none;
+  background-color: black;
+}
+
+.f_mn {
+  font-family: monospace;
+}
+
+.size_16 {
+  font-size: 16px;
+}
+
+.eb_button {
+  color: wheat;
+  text-decoration: none;
+}
